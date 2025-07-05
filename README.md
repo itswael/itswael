@@ -67,7 +67,7 @@ I'm a backend developer with hands-on experience in Java, Python, and Go, curren
 
 - 💼 [LinkedIn](https://linkedin.com/in/itswael)
 - 📬 [Email](errwael@gmail.com)
-- 🌐 Portfolio: coming soon
+- 🌐 [Portfolio](https://itswael.github.io/)
 
 ---
 
