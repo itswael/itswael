@@ -1,80 +1,258 @@
-# 👋 Hi there, I'm Mohammad Wael!
+# 👋 Hi, I'm Mohammad Wael
 
-🎓 Graduate Student @ University of Florida | 🖥️ Backend Developer | 🚀 Passionate about Automation, Compilers, and Scalable Systems
-
----
-
-## 🧠 About Me
-
-I'm a backend developer with hands-on experience in Java, Python, and Go, currently pursuing my Master's in Computer Science at the University of Florida. I enjoy designing efficient, scalable, and maintainable systems, and have worked on a variety of projects—from full-stack platforms to custom programming language development.
-
-- 💻 Experienced with: Java, Spring Boot, Python, Go, SQL, Redis, AWS, Docker
-- 🔍 Interested in: Compilers, Distributed Systems, AI/ML Integration, DevOps
-- 🛠️ Tools I love: IntelliJ IDEA, Git, Postman, Maven, Firebase, ANTLR, Jupyter
+💻 Backend Engineer | Distributed Systems | AI Systems  
+🎓 M.S. Computer Science — University of Florida  
+🚀 Building scalable infrastructure, developer tools, and intelligent systems
 
 ---
 
-## Languages and Tools:
-<p align="left"> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+# 🧠 About Me
+
+I'm a backend-focused software engineer specializing in **distributed systems, scalable APIs, and AI-powered platforms**.
+
+My work spans **cloud infrastructure, data pipelines, compiler design, and agentic AI systems**, with a strong focus on building **production-grade systems that scale**.
+
+Currently working on **large-scale climate data pipelines and HPC-based research infrastructure at the University of Florida.**
+
+### Core Interests
+
+• Distributed Systems  
+• AI Agent Infrastructure  
+• Data Pipelines & Research Platforms  
+• Backend Architecture  
+• Compiler Design  
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+Java • Go • Python • C • SQL • JavaScript
+
+### Backend & Systems
+Spring Boot • REST APIs • Microservices • Kafka • Redis
+
+### AI / Data
+LLM APIs • Vector Databases • Data Pipelines • Zarr
+
+### Databases
+PostgreSQL • MySQL • MongoDB • Redis
+
+### Cloud & DevOps
+AWS • Docker • CI/CD • GitHub Actions
+
+### Research & HPC
+Python Scientific Stack • Climate Data Processing • HPC Workloads
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+# 🤖 Autonomous AI Task Orchestrator
+
+A distributed **agentic AI execution system** that converts user requests into coordinated tasks executed by distributed workers.
+
+### Architecture
+
+```mermaid
+flowchart LR
+
+A[User Query] --> B[API Gateway / FastAPI]
+
+B --> C[AI Planner Agent]
+
+C --> D[Task Queue]
+
+D --> E1[Worker Node 1]
+D --> E2[Worker Node 2]
+D --> E3[Worker Node N]
+
+E1 --> F[Processing Engine]
+E2 --> F
+E3 --> F
+
+F --> G[Vector Database]
+
+G --> H[LLM Summarization Engine]
+
+H --> I[API Response Returned]
+```
+
+### Features
+
+• AI planner that decomposes complex tasks  
+• Distributed worker execution system  
+• Vector database knowledge storage  
+• LLM summarization pipeline  
+• Scalable queue-based architecture  
+
+### Tech
+
+Python • FastAPI • Redis • Celery • Vector DB • LLM APIs
+
+---
+
+# 🌐 Distributed Web Crawler
+
+High-performance distributed web crawler designed for **large-scale data collection and indexing**.
+
+### Architecture
+
+```mermaid
+flowchart LR
+
+A[Seed URLs / Scheduler] --> B[Crawl Queue]
+
+B --> C1[Worker Node 1]
+B --> C2[Worker Node 2]
+B --> C3[Worker Node N]
+
+C1 --> D[Fetcher Engine]
+C2 --> D
+C3 --> D
+
+D --> E[HTML Parser]
+
+E --> F[URL Extractor]
+
+F --> B
+
+E --> G[Content Processing]
+
+G --> H[Storage Layer]
+
+H --> I[Search / Index DB]
+
+H --> J[Metadata DB]
+```
+
+### Capabilities
+
+• Distributed crawling workers  
+• Queue-based URL scheduling  
+• Rate limiting and politeness policies  
+• Content parsing and indexing  
+• Scalable horizontal architecture
+
+### Tech
+
+Go • Kafka • Redis • PostgreSQL • Docker
+
+---
+
+# 🌍 NASA Weather + CHIRPS Research Data Platform
+
+Large-scale **climate data pipeline and research platform** developed at the **University of Florida**.
+
+The platform integrates:
+
+• NASA POWER weather datasets  
+• CHIRPS precipitation datasets  
+• Geographic shapefile-based site analysis  
+
+### Architecture
+
+```mermaid
+flowchart LR
+
+A[NASA POWER API] --> D[Data Ingestion Pipeline]
+B[CHIRPS Dataset] --> D
+C[User Provided Shapefile] --> F[Geospatial Processor]
+
+D --> E[Climate Data Processing]
+
+E --> G[Zarr Data Store]
+
+G --> H[Dataset Index Manager]
+
+H --> I[Auto Dataset Updates]
+
+F --> J[Site Dataset Generator]
+
+G --> J
+
+J --> K[ICASA File Generator]
+
+J --> L[Visualization Engine]
+
+L --> M[Interactive UI Dashboard]
+
+K --> N[Downloadable Site Packages]
+
+M --> O[Research Insights]
+
+J --> P[HPC Execution Engine]
+
+P --> Q[HiPerGator Cluster]
+```
+
+### Key Capabilities
+
+• Automated ingestion of climate datasets  
+• Zarr-based data storage and indexing  
+• Automatic dataset updates when new data becomes available  
+• HPC deployment on UF **HiPerGator** cluster  
+• Scientific experiment execution workflows  
+
+### Research Tools
+
+• Site-specific dataset generation via shapefiles  
+• Automated ICASA file generation  
+• Interactive UI for data visualization and insights  
+• Plot generation and data downloads  
+
+### Impact
+
+This platform **replaces a previously manual research workflow**, significantly reducing time required for climate data preparation for agricultural and environmental scientists.
+
+### Tech
+
+Python • Zarr • Climate Data APIs • HPC (HiPerGator) • React • Data Visualization
+
+---
+
+# ⚙ Pascal++ — Object-Oriented Pascal Compiler
+
+Designed and implemented an **object-oriented extension to Pascal** with a full compiler pipeline.
+
+### Features
+
+• Classes and inheritance  
+• Access modifiers  
+• Semantic analysis  
+• LLVM IR code generation  
+
+### Tech
+
+ANTLR4 • LLVM • Compiler Design • Language Engineering
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=itswael&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://ghchart.rshah.org/itswael" />
 </p>
 
+---
 
-## 📂 Featured Projects
+# 🌐 Connect With Me
 
-- 🔧 **[GatorCan](https://github.com/itswael/GatorCan)**  
-  A full-stack educational platform built using Golang, React.js, and AWS. Features real-time chat, role-based user access, admin-approved course enrollment, and AI-powered recommendations.
+💼 LinkedIn  https://linkedin.com/in/itswael
 
-- 🧾 **E-Commerce Backend Microservice**  
-  Spring Boot-based backend with role-based security, JWT, Elasticsearch, Stripe/Razorpay integration, and AWS deployment. Designed with microservice architecture and a test-driven development approach.
+🌐 Portfolio  https://itswael.github.io
 
-- 🧪 **Pascal++ (Custom Language Extension)**  
-  Developed an object-oriented extension of Pascal using ANTLR4, supporting classes, inheritance, access modifiers, and LLVM IR generation.
+📧 Email  errwael@gmail.com
 
 ---
 
-<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=itswael&label=Profile%20views&color=0e75b6&style=flat" alt="itswael" /> </p-->
+# ⚡ Fun Fact
 
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=itswael&theme=darkhub&row=1&column=7" alt="itswael" /> </p>
-</p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itswael&show_icons=true&theme=tokyonight&show_icons=true&locale=en" alt="itswael" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itswael&layout=compact&hide_border=true&&langs_count=10&show_icons=true&hide=javascript,css,html,blade,scss,tex,cmake,tsql&theme=tokyonight" />
-<p>
-<img align="ceter" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itswael&theme=2077" width="500" />
-</p> -->
-
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://linkedin.com/in/itswael)
-- 📬 [Email](errwael@gmail.com)
-- 🌐 [Portfolio](https://itswael.github.io/)
+I enjoy building systems that replace manual workflows with automation — from AI task orchestration engines to research data pipelines that process climate datasets on HPC clusters.
 
 ---
 
-## ⚡ Fun Fact
-
-I built an internal tool at work that cut down order status checks from hours to seconds—replacing multiple follow-up emails with a single query!
-
----
-
-⭐ Check out my repositories and feel free to star the ones you like!
+⭐ Explore my repositories and feel free to collaborate!
