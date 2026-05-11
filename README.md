@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Mohammad Wael
-
 💻 Backend Engineer | Distributed Systems | AI Systems  
 🎓 M.S. Computer Science — University of Florida  
 🚀 Building scalable infrastructure, developer tools, and intelligent systems
@@ -7,11 +6,8 @@
 ---
 
 # 🧠 About Me
-
 I'm a backend-focused software engineer specializing in **distributed systems, scalable APIs, and AI-powered platforms**.
-
 My work spans **cloud infrastructure, data pipelines, compiler design, and agentic AI systems**, with a strong focus on building **production-grade systems that scale**.
-
 Currently working on **large-scale climate data pipelines and HPC-based research infrastructure at the University of Florida.**
 
 ### Core Interests
@@ -26,23 +22,12 @@ Currently working on **large-scale climate data pipelines and HPC-based research
 
 # 🛠 Tech Stack
 
-### Languages
-Java • Go • Python • C • SQL • JavaScript
-
-### Backend & Systems
-Spring Boot • REST APIs • Microservices • Kafka • Redis
-
-### AI / Data
-LLM APIs • Vector Databases • Data Pipelines • Zarr
-
-### Databases
-PostgreSQL • MySQL • MongoDB • Redis
-
-### Cloud & DevOps
-AWS • Docker • CI/CD • GitHub Actions
-
-### Research & HPC
-Python Scientific Stack • Climate Data Processing • HPC Workloads
+### Languages: Java • Go • Python • C • SQL • JavaScript
+### Backend & Systems: Spring Boot • REST APIs • Microservices • Kafka • Redis
+### AI / Data: LLM APIs • Vector Databases • Data Pipelines • Zarr
+### Databases: PostgreSQL • MySQL • MongoDB • Redis
+### Cloud & DevOps: AWS • Docker • CI/CD • GitHub Actions
+### Research & HPC: Python Scientific Stack • Climate Data Processing • HPC Workloads
 
 ---
 
